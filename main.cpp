@@ -1,5 +1,5 @@
-//Oisin DAke
-//Lav 8
+//Oisin Dake
+//Lab 8
 //Operational Amplifier Circuits
 
 #include <iostream>
